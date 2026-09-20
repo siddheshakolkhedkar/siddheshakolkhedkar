@@ -16,9 +16,9 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/siddheshakolkhedkar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/search/results/people/?keywords=Siddhesh%20Nitin%20Akolkhedkar)
-[![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:?subject=Contact%20Siddhesh)
+`[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/siddheshakolkhedkar)`
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/siddhesh-akolkhedkar-7b8b41331/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BR54kTss0Stasf9lIQAYvlg%3D%3D)
+[![Email](https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:siddip2211@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-siddheshakolkhedkar-312E81?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/siddheshakolkhedkar)
 
 <br/>
