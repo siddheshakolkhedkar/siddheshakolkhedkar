@@ -60,19 +60,15 @@ I am particularly interested in:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,sql,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql&theme=dark" />
 </p>
 
-### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
-</p>
 
 ### Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgresql,mysql&theme=dark" />
 </p>
 
 ### Cloud, DevOps & Tooling
